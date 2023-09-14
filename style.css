@@ -1,0 +1,44 @@
+* {
+    padding: 0 0;
+    margin: 0;
+}
+
+.header {
+    color: white;
+    background-color: #1F2937;
+
+}
+.headertop {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+
+.titlesub {
+    font-size: 18px;
+    color: #e5e7eb
+}
+
+.headerbody {
+    display: flex;
+}
+
+img {
+    max-height: 250px;
+    justify-content: flex-end;
+}
