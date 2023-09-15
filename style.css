@@ -122,3 +122,43 @@ img {
     padding: auto;
     margin: auto;
 }
+
+.actionbackground {
+    display: flex;
+    background-color: #f9faf8;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+}
+
+.actioncontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    border: 100px solid #3882f6;
+    background: #3882f6;
+    width: 700px;
+    height:10px;
+}
+
+.actiontextcontainer {
+    display: flex;
+    flex-direction: column;
+    padding: 400px;
+    justify-content: space-evenly;
+}
+
+
+.actionheader {
+    color: #f9faf8;
+    font-weight: bolder;
+}
+
+.actionbutton {
+    height: 28px;
+    text-align: center;
+    background-color: #3882f6;
+    border-radius: 3px;
+    border: 2px solid #E8E8E8;
+}
