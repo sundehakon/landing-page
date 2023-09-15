@@ -162,3 +162,17 @@ img {
     border-radius: 3px;
     border: 2px solid #E8E8E8;
 }
+
+
+.copyrightbackground {
+    display: flex;
+    background-color: #1F2937;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyrighttext {
+    color: #f9faf8;
+    font-weight: bolder;
+}
